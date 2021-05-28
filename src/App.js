@@ -62,10 +62,9 @@ function App() {
               <Skill level={80}>HTML & CSS</Skill>
               <Skill level={80}>Javascript</Skill>
               <Skill level={85}>ReactJs</Skill>
-              <Skill level={50}>ReactNative</Skill>
+              <Skill level={80}>VueJS</Skill>
               <Skill level={80}>Git</Skill>
               <Skill level={40}>NodeJS</Skill>
-              <Skill level={40}>Ruby on Rails</Skill>
             </LeftContent>
             <RightContent>
               <h2 style={{ marginTop: 0 }}>
@@ -122,30 +121,8 @@ function App() {
                     </li>
                   </ul>
                 </p>
-                <h3>Frontend Developer at Tekmate Soft, Ha Noi</h3>
-                <span>August 2019 - March 2020</span>
-                <p>
-                  <strong>
-                    <i>TekmateSoft</i>
-                  </strong>{" "}
-                  is an outsourcing company. China and Vietnam are the two
-                  markets that the company is serving. My core activities
-                  include:
-                  <br />
-                  <ul>
-                    <li>
-                      Build a single-page application (SPA), responsive design
-                      for the admin coupon page of a fashion company (ReactJS
-                      and Nodejs).
-                    </li>
-                    <li>
-                      Application development to manage coupons on mobile apps
-                      (React Native).
-                    </li>
-                  </ul>
-                </p>
                 <h3>Backend Developer at Sun*(Framgia), Ha Noi</h3>
-                <span>March 2017 - July 2019</span>
+                <span>March 2017 - July 2020 </span>
                 <p>
                   <strong>
                     <i>Sun*</i>
